@@ -1,0 +1,3 @@
+[submodule "homeworks"]
+	path = homeworks
+	url = https://github.com/Shivanshu-Gupta/homework_fall2019.git
